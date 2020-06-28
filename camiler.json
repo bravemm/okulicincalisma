@@ -1,0 +1,171 @@
+{"mekanlar":[
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+		
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+		
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+			}
+		],
+	},
+	{
+		"mekanId":"1",
+		"mekanResim":"",
+		"mekanAdi":"",
+		"mekanil":"",
+		"mekanilce":"",
+		"mekanUlke":"",
+		"geolocation_latitude":"",
+		"geolocation_longitude":"",
+		"mekanResimleri": [
+		"mekanAciklama":"Topkapı sarayı"	
+		}
+	],
+
+]}
+
+
+
+	private int mekanId;
+	private String mekanResim;
+	private String mekanAdi;
+	private String mekanil;
+	private String mekanilce;
+	private String mekanUlke;
+	private String geolocation_latitude;
+	private String geolocation_longitude;
+	private String[] mekanResimleri;
+	private String mekanAciklama;
